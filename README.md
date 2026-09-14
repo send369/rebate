@@ -16,6 +16,10 @@
 4. 核对充值币种与网络，首次操作可先用小额测试。
 5. 注册完成后开启双重验证、独立密码和提现安全设置。
 
+## 专题指南
+
+- [CoinW vs Binance、Bybit、OKX、Bitget](guides/coinw-vs-binance-bybit-okx-bitget.md)
+
 ## English
 
 CoinW referral code: `WOFFICIAL`
